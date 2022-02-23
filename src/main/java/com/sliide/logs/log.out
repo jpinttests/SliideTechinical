@@ -1,0 +1,72 @@
+2022-02-23 18:02:822 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 18:02:981 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 18:02:174 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 18:02:821 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 18:02:09 INFO  NewsPage :91 - User click on view button : VIEW
+2022-02-23 18:02:596 INFO  ImagePage :22 - Image is displayed on page from : https://cdn2.thecatapi.com/images/5bb.jpg
+2022-02-23 18:02:814 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 18:02:195 INFO  HomePage :34 - Verifying visibility of UserName Field : 
+2022-02-23 18:02:417 INFO  HomePage :39 - Verifying visibility of Password Field 
+2022-02-23 18:02:587 INFO  HomePage :44 - Verifying visibility of SignIn Button : SIGN IN
+2022-02-23 18:02:233 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 18:02:30 INFO  HomePage :50 - Enter abc@gmail.com in User Name Field
+2022-02-23 18:02:44 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 18:02:372 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 18:02:544 INFO  HomePage :63 - Error Message from user name field : Wrong username
+2022-02-23 18:02:284 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 18:02:811 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 18:02:678 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 18:02:165 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 18:02:313 INFO  NewsPage :43 - Verifying visibility of UserName Field : News
+2022-02-23 18:02:206 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 18:02:140 INFO  NewsPage :48 - User is on News Page http://localhost:3000/
+2022-02-23 19:02:152 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 19:02:208 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 19:02:243 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 19:02:673 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 19:02:528 INFO  NewsPage :73 - User verifying all the images available on Page 
+2022-02-23 19:02:783 INFO  NewsPage :61 - User verifying all the links available on Page 
+2022-02-23 19:02:92 INFO  NewsPage :85 - User verifying all the Image descriptions available on Page 
+2022-02-23 19:02:871 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 19:02:305 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 19:02:335 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 19:02:757 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 19:02:682 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 19:02:631 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 19:02:609 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 19:02:62 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 19:02:425 INFO  NewsPage :91 - User click on view button : VIEW
+2022-02-23 19:02:360 INFO  ImagePage :22 - Image is displayed on page from : https://cdn2.thecatapi.com/images/6vq.jpg
+2022-02-23 21:02:174 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:396 INFO  HomePage :34 - Verifying visibility of UserName Field : 
+2022-02-23 21:02:500 INFO  HomePage :39 - Verifying visibility of Password Field 
+2022-02-23 21:02:561 INFO  HomePage :44 - Verifying visibility of SignIn Button : SIGN IN
+2022-02-23 21:02:710 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:412 INFO  HomePage :50 - Enter abc@gmail.com in User Name Field
+2022-02-23 21:02:598 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 21:02:725 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 21:02:762 INFO  HomePage :63 - Error Message from user name field : Wrong username
+2022-02-23 21:02:969 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:560 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 21:02:755 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 21:02:915 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 21:02:955 INFO  NewsPage :43 - Verifying visibility of UserName Field : News
+2022-02-23 21:02:930 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:965 INFO  NewsPage :48 - User is on News Page http://localhost:3000/
+2022-02-23 21:02:125 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:715 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 21:02:922 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 21:02:50 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 21:02:718 INFO  NewsPage :73 - User verifying all the images available on Page 
+2022-02-23 21:02:536 INFO  NewsPage :61 - User verifying all the links available on Page 
+2022-02-23 21:02:20 INFO  NewsPage :85 - User verifying all the Image descriptions available on Page 
+2022-02-23 21:02:12 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:580 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 21:02:778 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 21:02:896 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 21:02:146 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-23 21:02:551 INFO  HomePage :50 - Enter user1 in User Name Field
+2022-02-23 21:02:740 INFO  HomePage :55 - Enter pa55word in password field
+2022-02-23 21:02:880 INFO  HomePage :59 - Click on Sign in Button
+2022-02-23 21:02:947 INFO  NewsPage :91 - User click on view button : VIEW
+2022-02-23 21:02:787 INFO  ImagePage :22 - Image is displayed on page from : https://cdn2.thecatapi.com/images/6vc.jpg
